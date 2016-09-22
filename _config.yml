@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:              JupyterDay Hawaii
+tagline:            
+url:                 jupyterdayhawaii.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,15 +17,18 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              JupyterDay Hawaii
+  url:               https://twitter.com/pyhawaii
+  email:             jupyterdayhawaii@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/jupyterdayhawaii/jupyterdayhawaii.github.io
 
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/Submit a Proposal/'
 # Gems
 gems:
   - jekyll-paginate
