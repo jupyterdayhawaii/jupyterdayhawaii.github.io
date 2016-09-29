@@ -56,22 +56,22 @@ Our tentative schedule is as follows:
 
 Check our [complimentary registration portal](https://jupyterdayhawaii.eventbrite.com) for the latest updates and speaker announcements.
 
-######How can I be a part of it?
+###How can I be a part of it?
 If you are interested in being a part of the event, there are several opportunities to do so. You can choose to either [submit a proposal](https://docs.google.com/forms/d/e/1FAIpQLSdwDb1lxMSIK2SqB8WRVZAS4j6OOn1w3ZjZnJj0uAkAxBKr6w/viewform?c=0&w=1) for a Jupyter related topic or volunteer to be a part of the team. Volunteers should contact the organizer(s)at jupyterdayhawaii[at]gmail.com.
 
-######How can my organization be a part of it?
+###How can my organization be a part of it?
 If your organization would like to give back to the open source community, please consider sponsoring JupyterDay. We are currently looking for sponsors to help with refreshments (e.g. water, cookies, etc.) for the event and looking for organizations to help market the event to their team(s) and network(s). If you are interested in any of these opportunities, please contact the organizer, jupyterdayhawaii[at]gmail.com,  for further information.
 
-######Where can I register to attend?
+###Where can I register to attend?
 If you are interested in attending our workshop, you can reserve your ***free ticket*** at our [JupyterDayHawaii](https://jupyterdayhawaii.eventbrite.com) EventBrite page.
 
 Invite your friends, colleagues, and programming ohana to our very first JupyterDay!
 
-######Have additional questions?
+###Have additional questions?
 Feel free to contact the organizer, jupyterdayhawaii[at]gmail.com or Project Jupyter at projectjupyter[at]gmail.com for further information.
 
 
-######Sponsors
+###Sponsors
 We would like to thank our sponsors:
 * High Tech Development Corporation
 * PyHawaii
