@@ -49,9 +49,13 @@ Our tentative schedule is as follows:
 
 
 12:00PM-1:25PM: Opening Remarks & Getting Started with Jupyter + Refreshments, heavy pupus will be provided
+
 1:30PM-1:55PM: First Session
+
 2:00PM-2:25PM: Second Session
+
 2:30PM-2:55PM: Third Session
+
 3:00PM-4:00PM: Final Tech Talks/Presentations & Closing Remarks
 
 Check our [complimentary registration portal](https://jupyterdayhawaii.eventbrite.com) for the latest updates and speaker announcements.
