@@ -29,7 +29,7 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   Submit Your Proposal: '/submityourproposal/'
-  Sponsors:'/sponsors/'
+  sponsors:'/sponsors/'
 
 # Gems
 gems:
