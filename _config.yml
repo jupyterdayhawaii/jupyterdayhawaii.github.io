@@ -28,7 +28,9 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  About: '/Submit a Proposal/'
+  About: '/About/'
+  Submit Your Proposal: '/SubmitYourProposal/'
+  Sponsors:'/Sponsors/'
 
 # Gems
 gems:
