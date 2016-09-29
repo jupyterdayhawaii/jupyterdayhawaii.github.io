@@ -71,5 +71,11 @@ Invite your friends, colleagues, and programming ohana to our very first Jupyter
 Feel free to contact the organizer, jupyterdayhawaii[at]gmail.com or Project Jupyter at projectjupyter[at]gmail.com for further information.
 
 
-
+######Sponsors
+We would like to thank our sponsors:
+* High Tech Development Corporation
+* PyHawaii
+* DevLeague
+* Dark Art of Coding
+* Project Jupyter 
 
