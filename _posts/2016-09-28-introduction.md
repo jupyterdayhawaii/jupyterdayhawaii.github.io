@@ -19,14 +19,14 @@ JupyterDay Hawaii is an afternoon workshop dedicated to the free and open-source
 
 JupyterDay Hawaii is free and open to the public, especially members of the programming community, practitioners, students, academia, and researchers. We require registration to ensure we have enough food and seating. Complimentary refreshments and pupus will be provided. Registration is open now and will only take a minute, [register here](https://jupyterdayhawaii.eventbrite.com).
 
-######What is Jupyter? 
+**What is Jupyter?** 
 The Jupyter Notebook, formerly known as IPython, "is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more." 
 Source: https://jupyter.org
 
 Users can create “notebooks” with readable inputs such as code and text elements in order to conduct data analysis work for science, math, data science, and other analytical purposes. The notebooks are “both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis.” 
 Source: http://jupyter.readthedocs.io
 
-######So what will we be doing?
+**So what will we be doing?**
 That's an excellent question! We will have three simultaneous tracks covering a diverse set of topics, including:
 
 * How to get started with Jupyter and other introductory topics
@@ -56,26 +56,31 @@ Our tentative schedule is as follows:
 
 Check our [complimentary registration portal](https://jupyterdayhawaii.eventbrite.com) for the latest updates and speaker announcements.
 
-###How can I be a part of it?
+*How can I be a part of it?*
 If you are interested in being a part of the event, there are several opportunities to do so. You can choose to either [submit a proposal](https://docs.google.com/forms/d/e/1FAIpQLSdwDb1lxMSIK2SqB8WRVZAS4j6OOn1w3ZjZnJj0uAkAxBKr6w/viewform?c=0&w=1) for a Jupyter related topic or volunteer to be a part of the team. Volunteers should contact the organizer(s)at jupyterdayhawaii[at]gmail.com.
 
-###How can my organization be a part of it?
+*How can my organization be a part of it?
 If your organization would like to give back to the open source community, please consider sponsoring JupyterDay. We are currently looking for sponsors to help with refreshments (e.g. water, cookies, etc.) for the event and looking for organizations to help market the event to their team(s) and network(s). If you are interested in any of these opportunities, please contact the organizer, jupyterdayhawaii[at]gmail.com,  for further information.
 
-###Where can I register to attend?
+**Where can I register to attend?**
 If you are interested in attending our workshop, you can reserve your ***free ticket*** at our [JupyterDayHawaii](https://jupyterdayhawaii.eventbrite.com) EventBrite page.
 
 Invite your friends, colleagues, and programming ohana to our very first JupyterDay!
 
-###Have additional questions?
+**Have additional questions?**
 Feel free to contact the organizer, jupyterdayhawaii[at]gmail.com or Project Jupyter at projectjupyter[at]gmail.com for further information.
 
 
-###Sponsors
+**Sponsors**
 We would like to thank our sponsors:
+
 * High Tech Development Corporation
+
 * PyHawaii
+
 * DevLeague
+
 * Dark Art of Coding
+
 * Project Jupyter 
 
